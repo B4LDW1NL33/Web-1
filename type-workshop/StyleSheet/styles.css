@@ -1,0 +1,92 @@
+body {
+    background-color: ivory
+}
+
+@font-face {
+    font-family: "Alfa_Slab_One";
+    src: url("../TextType/Alfa_Slab_One/AlfaSlabOne-Regular.ttf");
+}
+
+@font-face {
+    font-family: "BBH_Sans_Bartle";
+    src: url("../TextType/BBH_Sans_Bartle/BBHSansBartle-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Gravitas_One";
+    src: url("../TextType/Gravitas_One/GravitasOne-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Bebas_Neue";
+    src: url("../TextType/Bebas_Neue/BebasNeue-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Bitcount_Grid_Single";
+    src: url("../TextType/Bitcount_Grid_Single/BitcountGridSingle_Cursive-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Jersey_10";
+    src: url("../TextType/Jersey_10/Jersey10-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Lilita_One";
+    src: url("../TextType/Lilita_One/LilitaOne-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Lobster_Two";
+    src: url("../TextType/Lobster_Two/LobsterTwo-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Momo_Signature";
+    src: url("../TextType/Momo_Signature/MomoSignature-Regular.ttf");
+}
+    
+.type1 { 
+    font-family: "Alfa_Slab_One"
+}
+
+.type2 {
+    font-weight: 700;
+    font-family: "BBH_Sans_Bartle"
+}
+
+.type3 {
+    letter-spacing: 2000;
+    font-family: "Gravitas_One"
+}
+
+.type4 {
+    font-family: "Bebas_Neue"
+}
+
+.type5 {
+    line-height: 7;
+    font-family: "Bebas_Neue"
+}
+
+.type6 {
+    font-size: x-small;
+    font-family: "Bitcount_Grid_Single"
+}
+
+.type7 {
+    text-align: center;
+    font-family: "Jersey_10"
+}
+
+.type8 {
+    font-family: "Lilita_One"
+}
+
+.type9 {
+    font-family: "Lobster_Two"
+}
+.type10 {
+    font-family: "Momo_Signature"
+}
