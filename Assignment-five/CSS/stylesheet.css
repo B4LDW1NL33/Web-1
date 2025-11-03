@@ -1,0 +1,50 @@
+.outer-box {
+    width: 555px;
+    height: 800px;
+    background-color: yellow;
+    border-radius: 20px;
+    border: 2px solid red;
+    margin: 30px;
+}
+.inner-box1 {
+    width: px;
+    height: 450px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+    background-color: green;
+    border-radius: 10px;
+    border: 6px solid red;
+}
+.inner-box2 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin-left: 185px;
+    margin-top: 25px;
+    border-radius: 10px
+}
+.inner-box3 {
+    width: 150px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.inner-box4 {
+    width: 150px;
+    height: 60px;
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: 175px;
+    margin-top: 18px
+}
+.rogue-box {
+    width: 150px;
+    height: 250px;
+    background-color: red;
+    margin-top: 25px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
