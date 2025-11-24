@@ -1,0 +1,86 @@
+body {
+    background-color: yellow
+}
+.o-box {
+    background-color: green;
+    height: 200px; 
+    width: 550px;
+    margin-left: 200px
+}
+.i-box-1 {
+    background-color: cyan;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-left: 25px;
+    margin-top: 25px
+}
+.i-box-2 {
+    background-color: tan;
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.o-box-2 {
+    background-color: steelblue;
+    height: 375px;
+    width: 550px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.i2-box-1 {
+    background-color: beige;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-left: 25px;
+    margin-top: 25px
+}
+
+.i2-box-2 {
+    background-color: black;
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.hero-box {
+    height: 25px;
+    width: 550px;
+    display: block;
+    clear: both;
+}
+
+.i2-box-3 {
+    background-color: orange;
+    height: 150px;
+    width: 500;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.text-block {
+    background-color: saddlebrown;
+    height: 250px;
+    width: 550px;
+    margin-top: 30px;
+    margin-left: 200px;
+    text-align-last: left;
+}
+
+.block {
+    background-color: purple;
+    height: 150px;
+    width: 150px;
+    margin: 25px;
+    margin-bottom: 10px;
+    float:inline-start;
+}
+.h7 {
+    
+}
